@@ -196,18 +196,18 @@ Span 8:    100%
   background-color: #ffffff;
 }
 
-#resume {
+#projects {
   background-color: #ffffff;
   /*overflow-y:scroll;*/
 }
 
-#publication {
+#publications {
   background-color: #ffffff;
   overflow-y:scroll;
 }
 
 #contact {
-  background-color: #838383;
+  background-color: #ffffff;
 }
 
 #contact p{
@@ -270,18 +270,19 @@ Span 8:    100%
   color: #000000;
 }
 
-#menu li.active a.resume {
+#menu li.active a.projects {
   background-color:#ffffff;
   color: #000000;
 }
 
-#menu li.active a.publication {
+#menu li.active a.publications {
   background-color:#ffffff;
   color: #000000;
 }
 
 #menu li.active a.contact {
-  background-color:#838383;
+  background-color:#ffffff;
+  color: #000000;
 }
 
 #menu li a:hover {
