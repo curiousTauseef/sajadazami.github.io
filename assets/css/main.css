@@ -1956,7 +1956,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 }
 
 body, input, select, textarea {
-    color: #a2a2a2;
+    color: #494949;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 16pt;
     font-weight: 400;
@@ -1993,7 +1993,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #787878;
+    color: #252525;
     font-weight: 400;
     line-height: 1em;
     margin: 0 0 1em 0;
@@ -2010,7 +2010,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.85em;
     line-height: 1.5em;
 }
 
